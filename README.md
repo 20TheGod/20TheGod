@@ -22,8 +22,11 @@
  
  ### 🧑🏻‍💻Social Medias and Contact
  <div> 
-   <a href="https://www.instagram.com/luiz_oms20/" target="_blank"><img src="instagram-2016-logo-svgrepo-com.svg" alt="Ícone customizado" height="30px" ></a>
-   <a href = "mailto: luizomsgolden@gmail.com"><img src="new-logo-gmail-svgrepo-com (1).svg" alt="Ícone customizado" height="30px"></a>
+   <a href="https://www.instagram.com/luiz_oms20/" target="_blank" ><img src="instagram-2016-logo-svgrepo-com.svg" alt="Ícone customizado" height="30px" ></a> 
+  &nbsp;&nbsp;&nbsp;
+   <a href = "mailto: luizomsgolden@gmail.com"><img src="new-logo-gmail-svgrepo-com (1).svg"  alt="Ícone customizado" height="30px" ></a>
+  &nbsp;&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/luizoms20/" target="_blank"><img src="linkedin-color-svgrepo-com.svg" alt="Ícone customizado" height="30px"></a>
-  <a href="https://wa.me/5537988440829" title="WhatsApp">
+  &nbsp;&nbsp;&nbsp;
+   <a href="https://wa.me/5537988440829" title="WhatsApp">
  </div>
